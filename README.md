@@ -15,11 +15,14 @@ The "Golden Fries" website is a modern and sleek platform designed to showcase t
 
 ## Original Design
 
-The design for the "Twitter Burger" website was inspired by Amena Sabuwala's Twitter account. Below is an image of the original design:
+The design for the "Golden Fries" website was inspired by Amena Sabuwala's Twitter account. Below is an image of the original design:
 
 ![Original Design](Assets/Designs/main_design.jpeg)
 
 *Credit: Design by Amena Sabuwala ([@AmenaiSabuwala](https://twitter.com/AmenaiSabuwala))*
+
+## Coded Design
+![Coded Design](Assets/Designs/Done_design.png)
 
 
 ## Technologies Used
